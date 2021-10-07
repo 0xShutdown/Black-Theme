@@ -6,4 +6,4 @@ https://chrome.google.com/webstore/detail/black-theme/phdgkjdkmiilimbjbofcnoikha
 ## Compatible:
 - [Google Chrome](https://www.google.com/chrome)
 - [Microsoft Edge](https://www.microsoft.com/edge)
-- [Brave](https://brave.com/fyp920)
+- [Brave](https://brave.com)
