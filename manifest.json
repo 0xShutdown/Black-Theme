@@ -1,8 +1,8 @@
 {
    "name": "Black Theme",
    "description": "This theme is very clean!",
-   "version": "1.1",
-   "manifest_version": 2,
+   "version": "1.2",
+   "manifest_version": 3,
    "theme": {
       "colors": {
          "bookmark_text": [ 255, 255, 255 ],
