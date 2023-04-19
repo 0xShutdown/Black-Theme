@@ -1,4 +1,5 @@
 # Black Theme
+This theme is very clean!
 
 ## Install
 - [Black Theme](https://chrome.google.com/webstore/detail/black-theme/phdgkjdkmiilimbjbofcnoikhanohflg)
